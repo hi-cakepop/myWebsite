@@ -1,0 +1,36 @@
+body {
+  background-color: whitesmoke;
+  background-image: url('georgecatlin5.webp');
+  background-size: 100%;
+  line-height: 2;
+}
+
+h3 {
+  margin-top: 30px;
+  margin-left: 175px;
+}
+
+p {
+  font-size: 18;
+  font-weight: 100;
+  margin-left: 175px;
+  margin-right: 175px;
+}
+
+button {
+  background-color: pink;
+  color: red;
+  border: 1px solid blue;
+  margin: 0 2px;
+  cursor: cell;
+}
+
+/* .blueButton {
+  background-color: blue;
+  color: red;
+  border: 1px solid blue;
+  margin: 0 2px;
+  cursor: cell;
+  border-radius: 20px
+} */
+
